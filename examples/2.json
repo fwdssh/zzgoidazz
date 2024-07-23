@@ -1,0 +1,21 @@
+{"Filials":[
+    {
+        "Adres": "Москва",
+        "Kod": 1,
+        "Name": "Filial 1",
+        "Telephone": "+79613429124"
+    },
+    {
+        "Adres": "Чебоксары",
+        "Kod": 2,
+        "Name": "Filial 2",
+        "Telephone": "+79613429124"
+    },
+    {
+        "Adres": "Пекин",
+        "Kod": 0,
+        "Name": "Filial 3",
+        "Telephone": "+79613429124"
+    }
+]
+}

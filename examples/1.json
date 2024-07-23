@@ -1,0 +1,19 @@
+{"Dogovors":[
+    {
+        "Data": "03.01.2000 0:00",
+        "KodFilial": 1,
+        "KodStrahovki": 1,
+        "Nomer": 1,
+        "StrahovayaSumma": 100,
+        "Tarif": 3
+    },
+    {
+        "Data": "03.01.2000 0:00",
+        "KodFilial": 2,
+        "KodStrahovki": 2,
+        "Nomer": 2,
+        "StrahovayaSumma": 100,
+        "Tarif": 4
+    }
+]
+}
